@@ -1,0 +1,7 @@
+FBA
+TPI
+PYK
+PDH
+PFL
+CTS
+ACK
